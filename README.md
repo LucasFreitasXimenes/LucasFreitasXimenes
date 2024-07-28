@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @LucasFreitasXimenes, Brazilian student and I have 21 years old!
+- 👋 Hello, I'm @LucasFreitasXimenes, Brazilian student and I have 22 years old!
 
 - 💞️ My skills are currently in HTML, CSS, PHP, MYSQLWORKBENCH and PYTHON and I have intermediate English.
 
