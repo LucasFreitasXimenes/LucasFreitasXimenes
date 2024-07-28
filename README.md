@@ -1,19 +1,28 @@
-- 👋 Hello, I'm @LucasFreitasXimenes, Brazilian student and I have 22 years old!
-
-- 💞️ My skills are currently in HTML, CSS, PHP, MYSQLWORKBENCH and PYTHON and I have intermediate English.
-
-- 👀 I'm interested in working as a developer, I've been studying for this for years and I feel prepared for the job market and willing to always learn!
-
-- 🌱 Computer technician graduated from the technical course provided by the ETEC institution in Poá, and I am currently studying higher education, graduating in systems analysis and development at UMC university in Mogi das Cruzes,
-I have intermediate English, I studied at One Way and other schools for a few years...
-
-- 📫 E-MAIL:lucasfxi@hotmail.com
-
-- 📫 NUMBER:+55(11)953627941
+👋 Olá, sou Lucas Freitas Ximenes, um entusiasta da tecnologia com 22 anos, e estou em busca de uma oportunidade para iniciar minha carreira na área de TI.
 
 
+💼 Habilidades Técnicas:
 
-<!---
-LucasFreitasXimenes/LucasFreitasXimenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-End: HTML,CSS e Figma
+Back-End: PHP, Python, Java e Dart
+Banco de Dados: MySQL
+Idiomas: Inglês intermediário
+
+
+📚 Formação Acadêmica:
+
+Técnico em Informática pela ETEC de Poá
+Graduando em Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC), Mogi das Cruzes
+
+
+🌟 Sobre Mim:
+
+Apaixonado por desenvolvimento e sempre em busca de novas oportunidades para aprender e crescer.
+Experiência acadêmica sólida e habilidades práticas desenvolvidas ao longo de anos de estudo.
+Comprometido com a qualidade e eficiência no desenvolvimento de soluções tecnológicas.
+
+
+📫 Contato:
+
+E-mail: lucasfxi@hotmail.com
+Telefone: +55 (11) 95362-7941
